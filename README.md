@@ -1,6 +1,6 @@
 ![logo](https://github.com/Chiranjeeb024/Chiranjeeb024/blob/main/Untitled%20design%20(1).png)
 <h1 align="center">Hi 👋, I'm Chiranjeeb Garnayak</h1>
-<h3 align="center">A passionate full stack game developer from India</h3>
+<h3 align="center">As a game developer with expertise in digital marketing and Google Cloud, I bring a unique skillset to the industry. With a passion for creating engaging and immersive gaming experiences, I am committed to utilizing my marketing and cloud computing knowledge to drive success for both myself and my clients. My proficiency in utilizing the latest technological advancements in the industry allows me to optimize game development and deliver exceptional results. My goal is to continue pushing the boundaries of what is possible in game development while utilizing the latest in marketing techniques to reach a wider audience.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjeeb024&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjeeb024" /> </p>
 
@@ -21,7 +21,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XNQUH9LOD1a9Zjeg85byWlOz80rz9B4o/view?usp=sharing](https://drive.google.com/file/d/1XNQUH9LOD1a9Zjeg85byWlOz80rz9B4o/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am in Love with games**
-<img align="right" alt="coding" width="400" src="![Alt text](image.png)"> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chiranjeeb-garnayak-18662b249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chiranjeeb-garnayak-18662b249/" height="30" width="40" /></a>
