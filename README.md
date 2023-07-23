@@ -1,6 +1,6 @@
 ![logo](https://github.com/Chiranjeeb024/Chiranjeeb024/blob/main/Untitled%20design%20(1).png)
 <h1 align="center">Hi 👋, I'm Chiranjeeb Garnayak</h1>
-<h3 align="center">As a game developer with expertise in digital marketing and Google Cloud, I bring a unique skillset to the industry. With a passion for creating engaging and immersive gaming experiences, I am committed to utilizing my marketing and cloud computing knowledge to drive success for both myself and my clients. My proficiency in utilizing the latest technological advancements in the industry allows me to optimize game development and deliver exceptional results. My goal is to continue pushing the boundaries of what is possible in game development while utilizing the latest in marketing techniques to reach a wider audience.</h3>
+<h3 align="center">Full Stack Game Developer with AR,VR and METAVERSE</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjeeb024&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjeeb024" /> </p>
 
